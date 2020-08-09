@@ -38,13 +38,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: "jacobyoonzengyew@gmail.com"
+# facebook: deanattali
+  github: genlikan
+#  twitter: daattali
+#  rss: true
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: jacob-zy-yoon
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,7 +72,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "genlikan.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
