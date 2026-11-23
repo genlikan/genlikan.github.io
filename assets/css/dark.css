@@ -1,0 +1,30 @@
+:root { color-scheme: dark; }
+
+.navbar-custom .avatar-container .avatar-img-border {
+  background: #161B22;
+  box-shadow: 0 0 0 1px #30363D;
+}
+
+.navbar-custom .nav-link:hover,
+.navbar-custom .navbar-brand:hover {
+  color: #5CC8B5;
+}
+
+hr { border-color: #30363D; }
+
+h1, h2, h3, h4, h5, h6,
+.intro-header .page-heading h1 {
+  color: #E6EDF3;
+}
+
+.intro-header .page-heading .page-subheading {
+  color: #8B949E;
+}
+
+blockquote { color: #8B949E; border-left-color: #30363D; }
+
+footer { border-top-color: #30363D; }
+
+footer .footer-links .fa-circle { color: #30363D; }
+footer .footer-links .fa-inverse { color: #E6EDF3; }
+footer .footer-links a:hover .fa-circle { color: #5CC8B5; }
